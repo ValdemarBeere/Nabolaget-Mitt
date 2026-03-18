@@ -1,0 +1,16 @@
+# Backend
+backend/.env
+backend/target/
+backend/*.log
+
+# Frontend
+frontend/.env
+frontend/node_modules/
+frontend/dist/
+
+# Plan documents (legg til manuelt)
+# backend/src/main/resources/plandata/nyhavna/*.pdf
+
+# System
+.DS_Store
+*.class
